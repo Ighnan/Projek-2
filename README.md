@@ -49,4 +49,4 @@ Kontribusi sangat diterima! Silakan kirim pull request dengan fitur atau perbaik
 ## Lisensi
 
 Proyek ini menggunakan lisensi MIT.  
-Untuk detail lengkap, lihat file [LICENSE](pulsazid/LICENSE).
+Untuk detail lengkap, lihat file (pulsazid/LICENSE).
